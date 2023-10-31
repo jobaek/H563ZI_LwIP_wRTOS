@@ -5,3 +5,6 @@ using STM32H563Z Nucleo Board
 
 FreeRTOS
 LwIP
+
+Reference
+https://github.com/STMicroelectronics/stm32h5-classic-coremw-apps
